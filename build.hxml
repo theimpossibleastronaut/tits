@@ -1,0 +1,6 @@
+-D analyzer
+-dce full
+-cp src
+-main Tits.hx
+-cpp hxbuild
+-cmd ./res/createbin.sh
